@@ -13,9 +13,10 @@ A fun terminal-based Hangman game built using Python.
   
 2. Clone this repository:
    git clone https://github.com/Divyasree20/Hangman.git
+   
    cd Hangman
  
-3. Run the game:
+4. Run the game:
    python hangman.py
 
 
